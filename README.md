@@ -1,8 +1,8 @@
 ## Hey, I'm Ray!!
 
-I'm a dual master's student at Tufts (CS + Innovation Management) finishing up in December 2026. Before that I studied CS and Management at the University of St Andrews in Scotland.
+Dual Master's of Science student at Tufts (Computer Science + Innovation & Management), graduating December 2026. Received my Bachelor of Science Degree in Computer Science and Management at the University of St Andrews in Scotland.
 
-I like building things that work — whether that's a full-stack app, a distributed system, or a model that makes sense of messy data. Most of my work sits somewhere between software engineering, data, and finance.
+I like building things that work. Most of what I do sits between software engineering, data, and finance.
 
 ### What I've been working on
 
