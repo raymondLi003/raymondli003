@@ -1,4 +1,4 @@
-## Hey, I'm Ray!!
+## Hey, I'm Ray!
 
 Dual Master of Science student at Tufts (Computer Science + Innovation & Management), graduating December 2026. Received my Bachelor of Science Degree in Computer Science and Management at the University of St Andrews in Scotland.
 
